@@ -1,5 +1,5 @@
 package dru.eureka.client;
-//testetstet
+//dev
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
